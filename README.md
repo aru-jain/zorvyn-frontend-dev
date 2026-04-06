@@ -91,17 +91,11 @@ Switch roles via the dropdown in the header (or the bottom nav tab on mobile). R
 
 | Dark Mode | Light Mode |
 |-----------|------------|
-| ![Dark](<img width="1376" height="911" alt="image" src="https://github.com/user-attachments/assets/178960c1-987b-4eaf-968d-2d91b7e31c1e" />
-) | ![Light](<img width="1347" height="908" alt="image" src="https://github.com/user-attachments/assets/20cc2caf-98c4-4da1-9c73-7d57b3c2ba58" />
-) |
+| ![Dark](https://github.com/user-attachments/assets/178960c1-987b-4eaf-968d-2d91b7e31c1e) | ![Light](https://github.com/user-attachments/assets/20cc2caf-98c4-4da1-9c73-7d57b3c2ba58) |
 
 | Mobile View | Transactions |
 |-------------|-------------|
-| ![Mobile](![WhatsApp Image 2026-04-06 at 7 08 44 PM](https://github.com/user-attachments/assets/1e45ffde-9bc5-4ccd-bf43-c250442cdafc)
-) | ![Transactions](<img width="1407" height="915" alt="image" src="https://github.com/user-attachments/assets/206d6a41-b150-4429-852d-221bdfb46e42" />
-) |
-
-> 💡 Replace the placeholder images above with real screenshots of your deployment.
+| ![Mobile](https://github.com/user-attachments/assets/1e45ffde-9bc5-4ccd-bf43-c250442cdafc) | ![Transactions](https://github.com/user-attachments/assets/206d6a41-b150-4429-852d-221bdfb46e42) |
 
 ---
 
