@@ -4,7 +4,7 @@
 
 ![FinTrack Banner](https://img.shields.io/badge/FinTrack-Financial%20Dashboard-c8a96e?style=for-the-badge&logo=react&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://your-app.vercel.app)
+[![Live Demo](https://zorvyn-frontend-dev.vercel.app/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![Recharts](https://img.shields.io/badge/Recharts-2.x-22b5bf?style=for-the-badge)](https://recharts.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
