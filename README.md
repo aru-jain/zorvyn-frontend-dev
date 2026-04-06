@@ -95,7 +95,8 @@ Switch roles via the dropdown in the header (or the bottom nav tab on mobile). R
 
 | Mobile View | Transactions |
 |-------------|-------------|
-| ![Mobile](https://github.com/user-attachments/assets/1e45ffde-9bc5-4ccd-bf43-c250442cdafc) | ![Transactions](https://github.com/user-attachments/assets/206d6a41-b150-4429-852d-221bdfb46e42) |
+| ![Mobile](https://github.com/user-attachments/assets/1e45ffde-9bc5-4ccd-bf43-c250442cdafc) | ![Transactions](https://github.com/user-attachments/assets/8a05e125-3028-47c6-9bf2-ccb18d8d3e05)
+ |
 
 ---
 
