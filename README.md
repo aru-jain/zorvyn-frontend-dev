@@ -4,14 +4,14 @@
 
 ![FinTrack Banner](https://img.shields.io/badge/FinTrack-Financial%20Dashboard-c8a96e?style=for-the-badge&logo=react&logoColor=white)
 
-[![Live Demo](https://zorvyn-frontend-dev.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://your-app.vercel.app)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![Recharts](https://img.shields.io/badge/Recharts-2.x-22b5bf?style=for-the-badge)](https://recharts.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 A sleek, fully responsive financial dashboard built with React. Track income and expenses, visualise spending patterns, manage transactions, and export your data — all in a single-page app with a polished dark/light theme.
 
-[**View Live Demo →**](https://your-app.vercel.app)
+[**View Live Demo →**](https://zorvyn-frontend-dev.vercel.app/)
 
 </div>
 
@@ -91,11 +91,15 @@ Switch roles via the dropdown in the header (or the bottom nav tab on mobile). R
 
 | Dark Mode | Light Mode |
 |-----------|------------|
-| ![Dark](https://via.placeholder.com/480x300/0d0f14/c8a96e?text=Dark+Mode) | ![Light](https://via.placeholder.com/480x300/f4f6fb/9a6f35?text=Light+Mode) |
+| ![Dark](<img width="1376" height="911" alt="image" src="https://github.com/user-attachments/assets/178960c1-987b-4eaf-968d-2d91b7e31c1e" />
+) | ![Light](<img width="1347" height="908" alt="image" src="https://github.com/user-attachments/assets/20cc2caf-98c4-4da1-9c73-7d57b3c2ba58" />
+) |
 
 | Mobile View | Transactions |
 |-------------|-------------|
-| ![Mobile](https://via.placeholder.com/240x480/0d0f14/c8a96e?text=Mobile) | ![Transactions](https://via.placeholder.com/480x300/161922/f0f2f7?text=Transactions) |
+| ![Mobile](![WhatsApp Image 2026-04-06 at 7 08 44 PM](https://github.com/user-attachments/assets/1e45ffde-9bc5-4ccd-bf43-c250442cdafc)
+) | ![Transactions](<img width="1407" height="915" alt="image" src="https://github.com/user-attachments/assets/206d6a41-b150-4429-852d-221bdfb46e42" />
+) |
 
 > 💡 Replace the placeholder images above with real screenshots of your deployment.
 
@@ -146,7 +150,7 @@ This project is deployed on **Vercel**. Every push to `main` triggers an automat
 4. Leave all settings as default (Vercel auto-detects Vite/React)
 5. Click **Deploy**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/fintrack-dashboard)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/aru-jain/zorvyn-frontend-dev.git)
 
 ### Environment Variables
 
