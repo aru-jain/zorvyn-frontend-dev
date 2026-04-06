@@ -111,7 +111,7 @@ Switch roles via the dropdown in the header (or the bottom nav tab on mobile). R
 ```bash
 # 1. Clone the repository
 git clone https://github.com/aru-jain/zorvyn-frontend-dev.git
-cd fintrack-dashboard
+cd finance
 
 # 2. Install dependencies
 npm install
